@@ -1,12 +1,12 @@
-# LAB - Class 06
+# LAB - Class 07
 
-## Project: Ten-Thousand
+## Project: Ten-Thousand Version_2
 
 ## Author
 
-    * Driver: Asem Attallah
+    * Driver: Hasan Alrawaqa 
     * Navigater: - Duaa Melhem
-                 - Hasan Alrawaqa
+                 - Asem Attallah
 <hr>
 
 ## Setup .env requirements
@@ -18,10 +18,10 @@
 
 ## How to initialize/run your application
 
-    * python game_logic.py
+    * python play_game.py
 
 ## Tests
 
 ### How do you run tests?
 
-    * pytest -k version_1
+    * pytest -k version_1 
