@@ -47,3 +47,6 @@ class GameLogic:
         '''
         dice_roll = tuple(random.randint(1, 6) for _ in range(num_dice)) # In this variable we calculate 6 random number and add it to tuple 
         return dice_roll
+    
+
+
